@@ -3,7 +3,7 @@
 namespace darkcs\maintenance\controllers;
 
 use Yii;
-use yupe\base\Controller;
+use yupe\web\Controller;
 
 class MaintenanceController extends Controller
 {
